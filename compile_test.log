@@ -1,0 +1,580 @@
+Unity Editor version:    6000.6.5f1 (3ff58d469c8a)
+Branch:                  6000.6/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 27.2 (Build 26B5101f)
+Darwin version:          27.2.0
+Architecture:            arm64
+Running under Rosetta:   NO
+Available memory:        18432 MB
+Date:                    2026-10-13T18:42:18Z
+VBCSCompilerPreWarmer: watching VBCSCompiler (PID 21765)
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 21767)
+VBCSCompiler prewarm took 5.40 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-avadhootsavle" at "2026-10-13T18:42:18.91176Z"
+Launching external process: /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Helpers/PackageManager/Server/UnityPackageManager
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/MacOS/Unity
+-batchmode
+-quit
+-projectPath
+.
+-logFile
+compile_test.log
+Successfully changed project path to: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main
+/Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Logging is directed to a specific file, skipping project log.
+Player connection [8613038464]  Target information:
+
+Player connection [8613038464]  * "[IP] 192.168.0.232 [Port] 55505 [Flags] 2 [Guid] 3825279739 [EditorId] 3825279739 [Version] 1048832 [Id] OSXEditor(0,Avadhoots-MacBook-Pro-3.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" 
+
+Player connection [8613038464] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [8613038464] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 84281448c9a537b3a2376ebdc39510b7
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052672
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: true
+  - Service working directory: Library/DataStore/
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              8f01b3a2178143a08a47773d7710829d
+  Correlation Id:          449037e8de1290799f86c4dfc2a23014
+  External correlation Id: 7152497420705911782
+  Machine Id:              /P7oIbFajDcBnuMo7PF2Rp7MR0U=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-avadhootsavle" (connect: 0.00s, validation: 0.01s, handshake: 0.45s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-avadhootsavle-notifications" at "2026-10-13T18:42:19.37063Z"
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 13469940019950-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.46s
+[Package Manager] Connected to IPC stream "Upm-21764" after 0.3 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+[Physics::Module] Selected backend (deferred post-plugins).
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.6.5f1 (3ff58d469c8a)
+[EntityIdStore] init: VM path (explicit commit), pageSize=16384, blockCount=262144, entitiesPerBlock=1024, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+ preferred device: Apple M3 Pro (high power)
+Metal devices available: 1
+0: Apple M3 Pro (high power)
+Using device Apple M3 Pro (high power)
+Initializing Metal device caps: Apple M3 Pro
+Mac GPU Family: 2
+Apple GPU Family: 9
+MSL Version: 3.0
+Has Float MSAA: 1
+Has Float Filtering: 1
+ReadWrite Texture Tier: 2
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Resources/Scripting/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Resources/Scripting/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = '/Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Resources/Scripting/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56764
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.5f1/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+Register platform support module: /Applications/Unity/Hub/Editor/6000.6.5f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.002731 seconds.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.679 seconds
+Domain Reload Profiling: 1000ms
+	BeginReloadAssembly (87ms)
+		CreateAndSetChildDomain (7ms)
+	RebuildCommonClasses (3ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (181ms)
+		LoadAssemblies (81ms)
+		TypeCache.Refresh (129ms)
+			TypeCache.ScanAssembly (119ms)
+		AnalyzeDomain (0ms)
+	FinalizeReload (679ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			BeforeProcessingInitializeOnLoad (52ms)
+			ProcessInitializeOnLoadAttributes (46ms)
+			ProcessInitializeOnLoadMethodAttributes (455ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 47 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.collab-proxy@2.12.4 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.collab-proxy@0b1559bcd34e)
+    com.unity.ide.rider@3.0.38 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.ide.rider@1f60b3138684)
+    com.unity.ide.visualstudio@2.0.26 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.ide.visualstudio@a99d56dec63f)
+    com.unity.inputsystem@1.19.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.inputsystem@21a28c3a6c83)
+    com.unity.visualscripting@1.9.11 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.visualscripting@8bed5ad90189)
+    com.unity.2d.animation@16.0.1 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.2d.animation@899988b542b9)
+    com.unity.2d.pixel-perfect@6.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.2d.pixel-perfect@a860cb24a0cc)
+    com.unity.2d.psdimporter@15.0.1 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.2d.psdimporter@e02a9153d8d9)
+    com.unity.2d.spriteshape@16.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.2d.spriteshape@42798c9d35d3)
+    com.unity.2d.tilemap.extras@9.0.1 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.2d.tilemap.extras@9446f3c60919)
+    com.unity.2d.aseprite@6.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.2d.aseprite@ab909e3e9b5f)
+    com.unity.2d.tooling@4.0.1 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.2d.tooling@4e93af4036ee)
+    com.unity.searcher@4.9.5 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.searcher@a463122f2c00)
+    com.unity.profiling.core@1.0.3 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.profiling.core@8a49f7027d06)
+    com.unity.2d.common@15.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.2d.common@b779c433ed47)
+    com.unity.nuget.mono-cecil@1.11.6 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff)
+  Built-in packages:
+    com.unity.feature.2d@2.0.2 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.feature.2d@11724ae7e5b5)
+    com.unity.multiplayer.center@2.0.1 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.multiplayer.center@01ba5271095b)
+    com.unity.render-pipelines.universal@17.6.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.render-pipelines.universal@2309ae255609)
+    com.unity.test-framework@1.8.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.test-framework@80f691d4262b)
+    com.unity.timeline@6.6.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.timeline@4891807c6bd8)
+    com.unity.ugui@2.6.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.ugui@42f0bd825000)
+    com.unity.modules.jsonserialize@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.jsonserialize)
+    com.unity.modules.ui@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.ui)
+    com.unity.modules.imgui@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.imgui)
+    com.unity.modules.audio@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.audio)
+    com.unity.modules.physics2d@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.physics2d)
+    com.unity.modules.physics@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.physics)
+    com.unity.modules.director@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.director)
+    com.unity.modules.animation@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.animation)
+    com.unity.modules.particlesystem@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.particlesystem)
+    com.unity.ext.nunit@2.1.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.ext.nunit@0198eae3b53e)
+    com.unity.render-pipelines.core@17.6.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.render-pipelines.core@285af6b8c83f)
+    com.unity.shadergraph@17.6.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.shadergraph@58bcb150677d)
+    com.unity.render-pipelines.universal-config@17.6.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.render-pipelines.universal-config@561422b74439)
+    com.unity.modules.uielements@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.uielements)
+    com.unity.2d.sprite@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.2d.sprite@752945c75a6f)
+    com.unity.2d.tilemap@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.2d.tilemap@f4c7bd71ac8a)
+    com.unity.modules.physicscore2d@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.physicscore2d)
+    com.unity.graph-authoring@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.graph-authoring@cfd2588851ee)
+    com.unity.burst@2.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.burst@626e66ab421b)
+    com.unity.collections@6.6.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.collections@10fff0607388)
+    com.unity.modules.hierarchycore@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.hierarchycore)
+    com.unity.mathematics@1.4.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.mathematics@8306a64d0cd6)
+    com.unity.modules.tilemap@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.tilemap)
+    com.unity.test-framework.performance@6.6.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.test-framework.performance@54c5bd86aedb)
+    com.unity.modules.imageconversion@1.0.0 (location: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Library/PackageCache/com.unity.modules.imageconversion)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.01 seconds
+[ScriptCompilation] Requested script compilation because: AssetDatabase observed changes in script compilation related files
+Found a lingering IL Post Processing runner process with PID 20944. Killing it.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:23)
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+UnityEditor.Scripting.ScriptCompilation.ILPostProcessingProgram:KillLingeringILPPRunner () (at /Users/bokken/build/output/unity/unity/Editor/Mono/Scripting/ScriptCompilation/ILPostProcessingProgram.cs:54)
+UnityEditor.Scripting.ScriptCompilation.ILPostProcessingProgram:EnsureRunningAndGetSocketOrNamedPipeImpl ()
+UnityEditor.Scripting.ScriptCompilation.ILPostProcessingProgram:EnsureRunningAndGetSocketOrNamedPipe () (at /Users/bokken/build/output/unity/unity/Editor/Mono/Scripting/ScriptCompilation/ILPostProcessingProgram.cs:20)
+UnityEditor.Scripting.ScriptCompilation.UnityBeeDriver:BuildRequestFor (UnityEditor.BuildTarget,UnityEditor.BuildOptions,Bee.BeeDriver.RunnableProgram,string,string,bool,NiceIO.NPath,UnityEditor.Scripting.ScriptCompilation.ILPostProcessingProgram,UnityEditor.Scripting.ScriptCompilation.UnityBeeDriver/CacheMode,Bee.BeeDriver.StdOutMode,Bee.BeeDriver.RunnableProgram) (at /Users/bokken/build/output/unity/unity/Editor/Mono/Scripting/ScriptCompilation/BeeDriver/UnityBeeDriver.cs:154)
+UnityEditor.Scripting.ScriptCompilation.UnityBeeDriver:BuildRequestFor (UnityEditor.BuildTarget,UnityEditor.BuildOptions,Bee.BeeDriver.RunnableProgram,UnityEditor.Scripting.ScriptCompilation.EditorCompilation,string,UnityEditor.Scripting.ScriptCompilation.UnityBeeDriver/CacheMode,string,bool) (at /Users/bokken/build/output/unity/unity/Editor/Mono/Scripting/ScriptCompilation/BeeDriver/UnityBeeDriver.cs:131)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilation:CompileScriptsWithSettings (UnityEditor.Scripting.ScriptCompilation.ScriptAssemblySettings) (at /Users/bokken/build/output/unity/unity/Editor/Mono/Scripting/ScriptCompilation/EditorCompilation.cs:895)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilation:CompileScripts (UnityEditor.Scripting.ScriptCompilation.EditorScriptCompilationOptions,UnityEditor.BuildTarget,int,string[]) (at /Users/bokken/build/output/unity/unity/Editor/Mono/Scripting/ScriptCompilation/EditorCompilation.cs:748)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface/<>c__DisplayClass21_0:<CompileScripts>b__0 () (at /Users/bokken/build/output/unity/unity/Editor/Mono/Scripting/ScriptCompilation/EditorCompilationInterface.cs:188)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:EmitExceptionAsError<UnityEditor.Scripting.ScriptCompilation.EditorCompilation/CompileStatus> (System.Func`1<UnityEditor.Scripting.ScriptCompilation.EditorCompilation/CompileStatus>,UnityEditor.Scripting.ScriptCompilation.EditorCompilation/CompileStatus) (at /Users/bokken/build/output/unity/unity/Editor/Mono/Scripting/ScriptCompilation/EditorCompilationInterface.cs:53)
+UnityEditor.Scripting.ScriptCompilation.EditorCompilationInterface:CompileScripts (UnityEditor.Scripting.ScriptCompilation.EditorScriptCompilationOptions,UnityEditor.BuildTarget,int,string[]) (at /Users/bokken/build/output/unity/unity/Editor/Mono/Scripting/ScriptCompilation/EditorCompilationInterface.cs:188)
+
+(Filename: /Users/bokken/build/output/unity/unity/Editor/Mono/Scripting/ScriptCompilation/ILPostProcessingProgram.cs Line: 54)
+
+Starting: /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Resources/BuildPipeline/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/200b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main
+DisplayProgressbar: Compiling Scripts
+ExitCode: 4 Duration: 0s141ms
+Rebuilding DAG because FileSignature timestamp changed: Library/Bee/200b0aE-inputdata.json
+*** Tundra requires additional run (0.10 seconds), 0 items updated, 3 evaluated
+Starting: /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Resources/Scripting/DotNetSdk/dotnet "/Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Resources/BuildPipeline/ScriptCompilationBuildProgram.exe" "Library/Bee/200b0aE.dag.json" "Library/Bee/200b0aE-inputdata.json" "Library/Bee/buildprogram0.traceevents"
+WorkingDir: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main
+ExitCode: 0 Duration: 1s228ms
+Starting: /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Resources/BuildPipeline/bee_backend --ipc --defer-dag-verification --dagfile="Library/Bee/200b0aE.dag" --continue-on-failure --dagfilejson="Library/Bee/200b0aE.dag.json" --profile="Library/Bee/backend2.traceevents" ScriptAssemblies
+WorkingDir: /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "/Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Resources/Scripting/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "/Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Resources/Scripting/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "/Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Resources/Scripting/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll" in favor of "/Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Resources/Scripting/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+ExitCode: 0 Duration: 0s868ms
+Finished compiling graph: 1132 nodes, 24692 flattened edges (20394 ToBuild, 194 ToUse), maximum node priority 1407
+[ 560/1129  0s] WriteText Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.rsp
+[ 844/1129  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+[1121/1129  0s] Csc Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll (+2 others)
+[1122/1129  0s] Csc Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+[1123/1129  0s] ILPostProcess Library/Bee/artifacts/200b0aE.dag/post-processed/Assembly-CSharp.dll (+pdb)
+Processing assembly Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.dll, with 143 defines and 351 references
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+1 processor(s) skipped this assembly
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[1124/1129  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[1125/1129  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[1126/1129  0s] ILPostProcess Library/Bee/artifacts/200b0aE.dag/post-processed/Assembly-CSharp-Editor.dll (+pdb)
+Processing assembly Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp-Editor.dll, with 141 defines and 398 references
+processors: Unity.Jobs.CodeGen.JobsILPostProcessor, zzzUnity.Burst.CodeGen.BurstILPostProcessor
+1 processor(s) skipped this assembly
+running Unity.Jobs.CodeGen.JobsILPostProcessor
+[1127/1129  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+[1128/1129  0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+*** Tundra build success (0.85 seconds), 10 items updated, 1129 evaluated
+AssetDatabase: script compilation time: 2.764019s
+Total cache size 85838840
+Total cache size after purge 85838840, took 00:00:00.0866335
+Begin MonoManager ReloadAssembly
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 3.29 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.601 seconds
+Domain Reload Profiling: 1174ms
+	BeginReloadAssembly (141ms)
+		DisableScriptedObjects (38ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (5ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (388ms)
+		LoadAssemblies (178ms)
+		TypeCache.Refresh (114ms)
+			TypeCache.ScanAssembly (101ms)
+		AnalyzeDomain (43ms)
+			BuildScriptInfoCaches (37ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (601ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			BeforeProcessingInitializeOnLoad (61ms)
+			ProcessInitializeOnLoadAttributes (251ms)
+			ProcessInitializeOnLoadMethodAttributes (142ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Starting new worker id: 0 with log in /Users/avadhootsavle/Downloads/getaway-shootout-tutorial-series-main/Logs/AssetImportWorkerHW0.log
+Importing 'GUID: e29540020666c4b478832482be252ae1 - Path: Assets/Sprites/Players/Players.png' with importer (TextureImporter)
+Imported 'GUID: e29540020666c4b478832482be252ae1' -> (Import Result ID: '3f6fd3a9c5a9f08ceb7cb1cc4474ebba') in 0.025 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bb76042f488ca62177a3e8eb68ff6f12 DependenciesID=c18a57bf7764344f6c6b9330820eb874 StaticDependenciesID=de546a265da1294a152e003923308635 
+Importing 'GUID: f3f07bdb718504c55ae1cdd4ebe62e86 - Path: Assets/Sprites/avadhoot_crop_calib.png' with importer (TextureImporter)
+Imported 'GUID: f3f07bdb718504c55ae1cdd4ebe62e86' -> (Import Result ID: 'bf1a20648f78d7b98ce84caab8c17ad9') in 0.031 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=aa8a4e1d42db07a9bfd0730af53fb646 DependenciesID=7b231d5cad0c837fffa5fa618650283f StaticDependenciesID=80682c229ccf36134c92e29efff1f8d6 
+Importing 'GUID: 848f7487406146968a11f8ccd7fc08fb - Path: Assets/Resources/Players.png' with importer (TextureImporter)
+Imported 'GUID: 848f7487406146968a11f8ccd7fc08fb' -> (Import Result ID: '58a706dccc064b5a77b83dc02df1b78a') in 0.002 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=400c00a267285326f7cdb2e2cdb61c85 DependenciesID=05e4879f3dfc0b368f6ed60fe549c102 StaticDependenciesID=2c4164641effdf46a108b09dc041af62 
+Importing 'GUID: 06968426c579842a5a5f10d7dcd4dde1 - Path: Assets/Sprites/friend_face_cutout.png' with importer (TextureImporter)
+Imported 'GUID: 06968426c579842a5a5f10d7dcd4dde1' -> (Import Result ID: '5e9ef306337ede1d8f4ad7142e3c2a20') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=46032eff08ef39660d7cbfeba62a4117 DependenciesID=4634d78fd30e9e01b82083247110690e StaticDependenciesID=7b4c1d87acfd2102d6c627c6a37ff912 
+Importing 'GUID: 061c4394b27fe475dbf425552d3e9a91 - Path: Assets/Resources/Portraits/Portrait_3.png' with importer (TextureImporter)
+Imported 'GUID: 061c4394b27fe475dbf425552d3e9a91' -> (Import Result ID: '4162fccb61e17c02a154339a09edf858') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1c54ee728cf0441f75665cf931dd9a34 DependenciesID=83e5906a49e44200c65022a6351ac298 StaticDependenciesID=865bce4030f8456b467f2124ed211dc8 
+Importing 'GUID: 6750aede333384a40be815a7f98016b9 - Path: Assets/Sprites/friend_head_test.png' with importer (TextureImporter)
+Imported 'GUID: 6750aede333384a40be815a7f98016b9' -> (Import Result ID: '1869634bac84b3a8f79b49902f29db4b') in 0.006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3931dc9b874ec173565013246bca8ebd DependenciesID=484bc5e280c14ffd936e49660dcf14d4 StaticDependenciesID=038956899d03bf54c477be87dbaaa3b6 
+Importing 'GUID: d72c8f96e85f74acdbf66524d71dbe59 - Path: Assets/Resources/Portraits/Portrait_2.png' with importer (TextureImporter)
+Imported 'GUID: d72c8f96e85f74acdbf66524d71dbe59' -> (Import Result ID: 'c393377b968b2d0d91f48cdf09774b34') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4e50acbd89dd108fd0f96b9a5c0dc754 DependenciesID=66b53ffeeafd4e2ec3384314c5235291 StaticDependenciesID=bdac22472ffe5e7bed163b998d2d85b8 
+Importing 'GUID: f7fae733ab5234986ba4b9571f3e5bbf - Path: Assets/Sprites/avadhoot_face_cutout.png' with importer (TextureImporter)
+Imported 'GUID: f7fae733ab5234986ba4b9571f3e5bbf' -> (Import Result ID: '99d9a196e57d3cc6f3ea94ef8a4c9847') in 0.019 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=39a5dd66e3a6bc586cc5d77b84fe2ef2 DependenciesID=aede77ee5a63d0bddf4359e98714b741 StaticDependenciesID=d2edb57195a4dddccce8e6a679a1ce35 
+Importing 'GUID: f73f01c71360e4f31b7a792bae06774b - Path: Assets/Sprites/avadhoot_crop_test.png' with importer (TextureImporter)
+Imported 'GUID: f73f01c71360e4f31b7a792bae06774b' -> (Import Result ID: '0c90600d3827c13274033bdbeae5c6e2') in 0.014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f76fe409244a36577553a3652cde95af DependenciesID=91d0292af3c4e7217731d100055aceb2 StaticDependenciesID=c1a6aba676c63010dec64f17dfdae831 
+Importing 'GUID: 889735b11fabc44879b9c1bf3678ede4 - Path: Assets/Sprites/avadhoot_head_test.png' with importer (TextureImporter)
+Imported 'GUID: 889735b11fabc44879b9c1bf3678ede4' -> (Import Result ID: 'd4d4f4999f8bf9cef3aef61bfdf2acba') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bf59924b0964675b49e6763b672d5fcd DependenciesID=b0bc32e55a402a8c4697ec8f9044479c StaticDependenciesID=2b215bccd781214471ee19a5c1bbef49 
+Importing 'GUID: 69a6417127672443f95cfe6807fdcfe1 - Path: Assets/Sprites/friend_crop_calib.png' with importer (TextureImporter)
+Imported 'GUID: 69a6417127672443f95cfe6807fdcfe1' -> (Import Result ID: 'fc58ef9f940eedae6a79b43f08c04885') in 0.009 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=18f8026c6fe1e2ff723eb3e1e9a2c03b DependenciesID=fe88eb7cc3dcb75a4386735d57b4c0e6 StaticDependenciesID=1f774e6d42dfad12b47383b16a05e971 
+Importing 'GUID: 8a22bd6483b11431f932f5fcc27bd760 - Path: Assets/Resources/Portraits/Portrait_0.png' with importer (TextureImporter)
+Imported 'GUID: 8a22bd6483b11431f932f5fcc27bd760' -> (Import Result ID: '3f141da377d4d404e2f9cf5c3a210802') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4aa472a1e850a1b8944b6acbe588e1ff DependenciesID=bd8ee13ab152359d0b7fdf2e8273d371 StaticDependenciesID=91869777a139ef71c7f32291451bf01b 
+Importing 'GUID: ac302b40085ed423c9491c532025607c - Path: Assets/Resources/Portraits/Portrait_1.png' with importer (TextureImporter)
+Imported 'GUID: ac302b40085ed423c9491c532025607c' -> (Import Result ID: '93012bf853fe30b1cdec71ad644d1d47') in 0.004 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=75a6148f217b4ed9094521b8d0c5e076 DependenciesID=8dea4008971cea14b174e12100a55587 StaticDependenciesID=68ef30d2c56c17388d36818065fa9877 
+Importing 'GUID: 3e65e3e2410ba4f79abefb72754c887f - Path: Assets/Sprites/friend_crop_test.png' with importer (TextureImporter)
+Imported 'GUID: 3e65e3e2410ba4f79abefb72754c887f' -> (Import Result ID: '555e1000340b58038ec8db22abe94c41') in 0.008 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cc1c86a0c24723527c01d185d0e2170f DependenciesID=c33590b6626b07b54594646ae27ed7a2 StaticDependenciesID=d7261f5d19e43ef8029781d2a1a1c2eb 
+Launching external process: /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Helpers/UnityShaderCompiler
+
+Asset Pipeline Refresh (id=51cc97bd05d89417d993b57a723b36d9): Total: 5.005 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=14 (actual=14, local cache=0, cache server=0)
+		Asset DB Process Time: managed=26 ms, native=1291 ms
+		Asset DB Callback time: managed=278 ms, native=13 ms
+		Scripting: domain reloads=1, domain reload time=594 ms, compile time=2765 ms, other=36 ms
+		Project Asset Count: scripts=1597, non-scripts=3284
+		Asset File Changes: new=7, changed=20, moved=0, deleted=0
+		Scan Filter Count: 1
+	InvokePackagesCallback: 10.635ms
+	ApplyChangesToAssetFolders: 0.174ms
+	Scan: 297.761ms
+	Collect global state as custom dependencies: 9.578ms
+	OnSourceAssetsModified: 0.472ms
+	CategorizeScriptCompilationAssets: 36.821ms
+	ProcessAssetsWithTransientArtifactChanges: 41.214ms
+	CategorizeAssets: 53.812ms
+	CompileScripts: 2765.131ms
+	ImportOutOfDateAssets: 764.063ms (607.608ms without children)
+		ImportManagerImport: 151.829ms (1.157ms without children)
+			UpdateCategorizedAssets: 0.095ms
+		UnloadImportedAssets: 2.172ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.560ms
+		ImportSchedulerStart: 1.857ms
+	PostProcessAllAssets: 278.532ms
+		XRBuildSystem.XRAssetImported 0.117ms
+		PostProcessCallbackCreateDeferredMaterials 0.063ms
+		SpriteAtlasDatabase.OnAssetPostprocessCallback 0.063ms
+		MonoPostProcessAllAssets: 277.568ms
+			SyncVS.PostprocessSyncProject 137.369ms
+			AssetPostprocessor.OnPostprocessAllAssets 98.125ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 10.472ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 7.982ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 3.758ms
+			SpriteSlicePostprocessor.OnPostprocessAllAssets 3.551ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 1.203ms
+			AssetChangedListener.OnPostprocessAllAssets 0.942ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 0.877ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 0.847ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 0.837ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 0.721ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.448ms
+			MaterialPostprocessor.OnPostprocessAllAssets 0.444ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.336ms
+			SpriteEditorTexturePostprocessor.OnPostprocessAllAssets 0.254ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.246ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.243ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.238ms
+			PostProcessor.OnPostprocessAllAssets 0.230ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 0.175ms
+			UVCSAssetPostprocessor.OnPostprocessAllAssets 0.161ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.154ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.153ms
+			SpriteShapeAssetPostProcessor.OnPostprocessAllAssets 0.150ms
+			AssetEvents.OnPostprocessAllAssets 0.137ms
+			AssetProcessor.OnPostprocessAllAssets 0.136ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 0.130ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.120ms
+			SpriteLibraryAssetPostprocessor.OnPostprocessAllAssets 0.094ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.092ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.089ms
+			PSDImportPostProcessor.OnPostprocessAllAssets 0.073ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.067ms
+			SamplePostprocessor.OnPostprocessAllAssets 0.066ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.063ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.061ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.053ms
+	PostAssetChangesProfiler: 2.833ms
+	UnloadStreamsBegin: 0.849ms
+	PersistCurrentRevisions: 0.188ms
+	GenerateScriptTypeHashes: 1.303ms
+	GenerateScriptTypeSerializationHashes: 2.390ms
+	Untracked: 741.276ms
+
+Application.AssetDatabase Initial Refresh End
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Shader Hidden/ChartRasterizerHardware is not supported: GPU does not support conservative rasterization
+Scanning for USB devices : 0.031ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-GetawayShootoutTutorialSeries
+Worker ready: AssetImportWorkerHW0 0
+2026-10-14 00:12:27.323 Unity[21764:640439] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7901b25b80 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2026-10-14 00:12:27.436 Unity[21764:640439] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7901b25720 SDF, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+Unloading 98 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7341 unused Assets / (11.7 MB). Loaded Objects now: 8258.
+Memory consumption went from 273.7 MB to 262.0 MB.
+Total: 10.195625 ms (FindLiveObjects: 0.545750 ms CreateObjectMapping: 0.138459 ms MarkObjects: 6.019916 ms  DeleteObjects: 3.401167 ms)
+
+Thread 0x711dc4b000 may have been prematurely finalized
+Batchmode quit successfully invoked - shutting down!
+Curl error 42: Callback aborted
+Thread 0x17a43f000 may have been prematurely finalized
+Killing ADB server in 0.225093 seconds.
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+Thread 0x174c47000 may have been prematurely finalized
+Thread 0x174d5f000 may have been prematurely finalized
+Thread 0x174cd3000 may have been prematurely finalized
+Thread 0x174f03000 may have been prematurely finalized
+Thread 0x174e77000 may have been prematurely finalized
+Thread 0x174f8f000 may have been prematurely finalized
+Thread 0x175133000 may have been prematurely finalized
+Thread 0x17501b000 may have been prematurely finalized
+Thread 0x174deb000 may have been prematurely finalized
+Thread 0x1750a7000 may have been prematurely finalized
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-avadhootsavle-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-avadhootsavle channel disconnected successfully.
+Lingering sessions upon destruction of worker manager
+
+=================================================================
+	Native Crash Reporting
+=================================================================
+Got a segv while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+
+=================================================================
+	Native stacktrace:
+=================================================================
+	0x178508454 - /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Frameworks/libmonobdwgc-2.0.dylib : mono_dump_native_crash_info
+	0x1784ca6d4 - /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Frameworks/libmonobdwgc-2.0.dylib : mono_handle_native_crash
+	0x178452edc - /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/Frameworks/libmonobdwgc-2.0.dylib : mono_sigsegv_signal_handler_debug
+	0x1992fe144 - /usr/lib/system/libsystem_platform.dylib : _sigtramp
+	0x104ba1adc - /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/MacOS/Unity : _ZN12UDSInterfaceD2Ev
+	0x104ba1adc - /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/MacOS/Unity : _ZN12UDSInterfaceD2Ev
+	0x104a0ec98 - /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/MacOS/Unity : _Z22CleanUpAssetDatabaseV2v
+	0x1049c57ac - /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/MacOS/Unity : _ZN13AssetDatabase20CleanupAssetDatabaseEv
+	0x104f5b610 - /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/MacOS/Unity : _ZN11Application12CoreShutdownEv
+	0x104f59dbc - /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/MacOS/Unity : _ZN11Application17ParseARGVCommandsEv
+	0x104f57968 - /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/MacOS/Unity : _ZN11Application20FinishLoadingProjectEv
+	0x104ce1390 - /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/MacOS/Unity : -[EditorApplication applicationDidFinishLaunching:]
+	0x1984ee17c - /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation : __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__
+	0x19857d288 - /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation : ___CFXRegistrationPost_block_invoke
+	0x19857d1cc - /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation : _CFXRegistrationPost
+	0x1984ba35c - /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation : _CFXNotificationPost
+	0x19497338c - /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation : -[NSNotificationCenter postNotificationName:object:userInfo:]
+	0x19e17ead4 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : -[NSApplication _postDidFinishNotification]
+	0x19e17e868 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : -[NSApplication _sendFinishLaunchingNotification]
+	0x19e17cf40 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : -[NSApplication(NSAppleEventHandling) _handleAEOpenEvent:]
+	0x19e17cb54 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : -[NSApplication(NSAppleEventHandling) _handleCoreEvent:withReplyEvent:]
+	0x19499c20c - /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation : -[NSAppleEventManager dispatchRawAppleEvent:withRawReply:handlerRefCon:]
+	0x19499c004 - /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation : _NSAppleEventManagerGenericHandler
+	0x1a218a578 - /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE : _AppleEventsCheckInAppWithBlock
+	0x1a2189fd8 - /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE : _AppleEventsCheckInAppWithBlock
+	0x1a2183a0c - /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE : aeProcessAppleEvent
+	0x1a2bc6454 - /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox : AEProcessAppleEvent
+	0x19e1767b0 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : _DPSNextEvent
+	0x19e91b20c - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : -[NSApplication(NSEventRouting) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+	0x19e91acfc - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : -[NSApplication(NSEventRouting) nextEventMatchingMask:untilDate:inMode:dequeue:]
+	0x19e169880 - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : -[NSApplication run]
+	0x19e141c4c - /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit : NSApplicationMain
+	0x104cefabc - /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/MacOS/Unity : _Z10EditorMainiPPKc
+	0x104cefdd0 - /Applications/Unity/Hub/Editor/6000.6.5f1/Unity.app/Contents/MacOS/Unity : main
+	0x194260d7c - /usr/lib/dyld : start
+
+=================================================================
+	Telemetry Dumper:
+=================================================================
+Pkilling 0x6353645568x from 0x8613038464x
+Pkilling 0x6360608768x from 0x8613038464x
+Pkilling 0x485443727360x from 0x8613038464x
+Pkilling 0x6373519360x from 0x8613038464x
+Pkilling 0x6377811968x from 0x8613038464x
+Pkilling 0x6321795072x from 0x8613038464x
+Pkilling 0x6358200320x from 0x8613038464x
+Pkilling 0x6382366720x from 0x8613038464x
+Pkilling 0x485386956800x from 0x8613038464x
+Pkilling 0x6351499264x from 0x8613038464x
+Pkilling 0x6355791872x from 0x8613038464x
+Pkilling 0x485441581056x from 0x8613038464x
+Pkilling 0x485445873664x from 0x8613038464x
+Pkilling 0x6375665664x from 0x8613038464x
+Pkilling 0x485789396992x from 0x8613038464x
+Pkilling 0x6323941376x from 0x8613038464x
+Pkilling 0x6380220416x from 0x8613038464x
+Pkilling 0x485384810496x from 0x8613038464x
+Entering thread summarizer pause from 0x8613038464x
+Finished thread summarizer pause from 0x8613038464x.
+Failed to create breadcrumb file (null)/crash_hash_0x0
+debugger-agent: Unable to listen on 42
+
+Waiting for dumping threads to resume
+
+=================================================================
+	External Debugger Dump:
+=================================================================
+
+=================================================================
+	Basic Fault Address Reporting
+=================================================================
+Memory around native instruction pointer (0x104ce9764):0x104ce9754  f4 4f be a9 fd 7b 01 a9 fd 43 00 91 f3 03 00 aa  .O...{...C......
+0x104ce9764  00 04 40 f9 20 01 00 b5 20 d6 01 f0 00 80 23 91  ..@. ... .....#.
+0x104ce9774  23 d6 01 f0 63 f4 27 91 01 31 80 52 02 00 80 12  #...c.'..1.R....
+0x104ce9784  b5 9f a4 94 60 06 40 f9 fd 7b 41 a9 f4 4f c2 a8  ....`.@..{A..O..
+
+=================================================================
+	Managed Stacktrace:
+=================================================================
+=================================================================
+Obtained 31 stack frames.
+#0  0x00000104ce9764 in ExternalTask::IsRunning() const
+#1  0x00000104ba1adc in UDSInterface::~UDSInterface()
+#2  0x00000104a0ec98 in CleanUpAssetDatabaseV2()
+#3  0x000001049c57ac in AssetDatabase::CleanupAssetDatabase()
+#4  0x00000104f5b610 in Application::CoreShutdown()
+#5  0x00000104f59dbc in Application::ParseARGVCommands()
+#6  0x00000104f57968 in Application::FinishLoadingProject()
+#7  0x00000104ce1390 in -[EditorApplication applicationDidFinishLaunching:]
+#8  0x000001984ee17c in __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__
+#9  0x0000019857d288 in ___CFXRegistrationPost_block_invoke
+#10 0x0000019857d1cc in _CFXRegistrationPost
+#11 0x000001984ba35c in _CFXNotificationPost
+#12 0x0000019497338c in -[NSNotificationCenter postNotificationName:object:userInfo:]
+#13 0x0000019e17ead4 in -[NSApplication _postDidFinishNotification]
+#14 0x0000019e17e868 in -[NSApplication _sendFinishLaunchingNotification]
+#15 0x0000019e17cf40 in -[NSApplication(NSAppleEventHandling) _handleAEOpenEvent:]
+#16 0x0000019e17cb54 in -[NSApplication(NSAppleEventHandling) _handleCoreEvent:withReplyEvent:]
+#17 0x0000019499c20c in -[NSAppleEventManager dispatchRawAppleEvent:withRawReply:handlerRefCon:]
+#18 0x0000019499c004 in _NSAppleEventManagerGenericHandler
+#19 0x000001a218a578 in _AppleEventsCheckInAppWithBlock
+#20 0x000001a2189fd8 in _AppleEventsCheckInAppWithBlock
+#21 0x000001a2183a0c in aeProcessAppleEvent
+#22 0x000001a2bc6454 in AEProcessAppleEvent
+#23 0x0000019e1767b0 in _DPSNextEvent
+#24 0x0000019e91b20c in -[NSApplication(NSEventRouting) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+#25 0x0000019e91acfc in -[NSApplication(NSEventRouting) nextEventMatchingMask:untilDate:inMode:dequeue:]
+#26 0x0000019e169880 in -[NSApplication run]
+#27 0x0000019e141c4c in NSApplicationMain
+#28 0x00000104cefabc in EditorMain(int, char const**)
+#29 0x00000104cefdd0 in main
+#30 0x00000194260d7c in start
